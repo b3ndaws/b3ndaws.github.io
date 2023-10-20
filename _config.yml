@@ -1,15 +1,15 @@
-title: My blog
-description: My very nice blog
-author: "Jorge Sanz"
+title: bendaws
+description: This is my website. I'm a developer who messes with things until it works.
+author: "Ben Daws"
 
 theme: minima
 
 base_url: /gh-pages-minima-starter
-repository: jsanz/gh-pages-minima-starter
+repository: b3ndaws/b3ndaws.github.io
 
 # Minima social links
-github_username: jsanz
-linkedin_username: jsanz
+github_username: b3ndaws
+linkedin_username: b3ndaws
 rss: rss
 
 # Minima: show excerpts in the frontpage
