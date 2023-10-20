@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: home
-title: Homepage
+title: Home
 list_title: Articles
 ---
 
