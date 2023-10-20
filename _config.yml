@@ -9,7 +9,6 @@ repository: b3ndaws/b3ndaws.github.io
 
 # Minima social links
 github_username: b3ndaws
-rss: FEED
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
