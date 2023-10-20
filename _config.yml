@@ -9,8 +9,7 @@ repository: b3ndaws/b3ndaws.github.io
 
 # Minima social links
 github_username: b3ndaws
-linkedin_username: b3ndaws
-rss: rss
+rss: FEED
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
@@ -22,7 +21,6 @@ minima:
 header_pages:
   - _pages/frontpage.md
   - _pages/about.md
-  - _pages/archive.md
 
 include:
     - _pages
